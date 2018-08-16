@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#FFFFFF</color>
+    <color name="colorAccent">#FF6243</color>
+    <color name="background_light">#EFEFF4</color>
+    <color name="white">#FFFFFF</color>
+    <color name="transparent">#00000000</color>
+    <color name="transparent40">#66000000</color>
+    <color name="red">#FF2823</color>
+    <color name="text_red">#F04E28</color>
+    <color name="grey">#5C5C5C</color>
+    <color name="divider">#D6D6D6</color>
+    <color name="text33">#333333</color>
+    <color name="textA2">#A2A2A2</color>
+    <color name="text4C">#4C4C4C</color>
+    <color name="text4A">#4A4A4A</color>
+    <color name="text5F">#5F5F5F</color>
+    <color name="textC7">#C7C7C7</color>
+    <color name="text80">#808080</color>
+    <color name="text8B">#8b8b8b</color>
+    <color name="text99">#999999</color>
+    <color name="order_refund">#FF6130</color>
+    <color name="divider_horizontal">#E3E3E3</color>
+
+    <color name="text_grey_2">#666666</color>
+    <color name="text_grey_4">#8E8E8E</color>
+    <color name="text_grey_5">#CECECE</color>
+    <color name="text_grey_6">#6a6a6a</color>
+    <color name="text_grey_7">#bdbdbd</color>
+    <color name="text_grey_8">#b4b4b4</color>
+    <color name="text_grey_9">#f04e28</color>
+    <color name="text_grey_10">#dcdcdc</color>
+    <color name="text_grey_11">#1af04e28</color>
+    <color name="text_grey_12">#26f04e28</color>
+    <color name="text_grey_13">#E5E6E7</color>
+    <color name="bg_red">#FF6243</color>
+    <color name="background">#EFF5F6</color>
+    <color name="background_all">#f5f5f9</color>
+    <color name="order_text5">#ABABAB</color>
+    <color name="textAB">#ABABAB</color>
+    <color name="gray_dlishes">#808080</color>
+
+    <color name="bg_grey">#ECECEC</color>
+    <color name="bg_greyF9">#F9F9F9</color>
+    <color name="loading">#f8f8f8</color>
+
+    <color name="main">#F34E28</color>
+    <color name="tab_text_normal">#212121</color>
+    <color name="layout_white_pressed">#DCDCDC</color>
+
+    <!--单品优惠-->
+    <color name="single_price">#d24f23</color>
+
+    <!--白色布局点击效果-->
+    <drawable name="layout_white_normal">#FFFFFF</drawable>
+    <drawable name="layout_white_pressed">#E6E6E6</drawable>
+
+    <drawable name="transparent55">#8C000000</drawable>
+
+    <color name="menu_text_prs">#FF6243</color>
+    <color name="seat">#fd7d16</color>
+    <color name="recall">#800A93FC</color>
+    <color name="call">#50C94A</color>
+    <color name="pass">#0A93FC</color>
+    <color name="pressed">#FFF7F2</color>
+    <color name="textC9">#C9C9C9</color>
+    <color name="text_gray">#767676</color>
+
+</resources>

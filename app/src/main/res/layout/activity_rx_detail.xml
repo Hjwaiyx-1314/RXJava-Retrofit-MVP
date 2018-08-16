@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <EditText
+        android:id="@+id/et_get"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dp50"
+        android:hint="获取到数据为"
+        android:textColor="@color/text33" />
+
+    <Button
+        android:id="@+id/btn_post"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dp50"
+        android:text="点击获取数据" />
+
+    <ImageView
+        android:id="@+id/im_home"
+        android:layout_width="@dimen/dp150"
+        android:layout_height="@dimen/dp150" />
+
+    <Button
+        android:id="@+id/btn_glide"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dp50"
+        android:text="点击加载图片" />
+
+</LinearLayout>
